@@ -274,4 +274,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-For questions or collaboration, please contact [your-email@domain.com].
+For questions or collaboration, please contact s.souravakib@gmail.com
