@@ -245,32 +245,11 @@ This framework is designed for:
 - **Anomaly Detection**: Identifying unusual stellar spectra
 - **Representation Learning**: Learning meaningful stellar spectral features
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@software{galah_compression_model,
-  title={GalahCompressionModel: Deep Learning Framework for Stellar Spectral Compression},
-  author={[Your Name]},
-  year={2024},
-  url={https://github.com/[your-username]/GalahCompressionModel}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Acknowledgments
-
-- GALAH Survey team for providing the stellar spectral data
-- PyTorch team for the deep learning framework
-- Astropy project for astronomical data handling tools
 
 ## Contact
 
