@@ -68,11 +68,7 @@ Probabilistic autoencoder that learns a latent distribution for stellar spectra.
 Enhanced version of the VAE with better training dynamics and stability.
 
 **Improvements:**
-- Fixed input length (16384 points) for consistency
-- Simplified architecture for better convergence
 - Disabled early stopping for full training
-- Optimized for latent dimensions: [64, 512, 1024]
-- Linux lab environment configuration
 
 ### 4. Contrastive Learning (`galah_contrastive_learning.py`)
 
